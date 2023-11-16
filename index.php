@@ -69,8 +69,31 @@ if(!empty($selecionado)){
 
 
 ?>
-
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>
+            ALLALALALALLA
+        </title>
+        
+      
+		<meta charset="UTF-8">
+		<title>FUNCIONARIOS</title>
+        <link rel="stylesheet" href="index.php"/>
+		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" href="css/index.css">
+    </head>
+    <header>
+			<div class="container">
+				<h1 class="titulo">cadastro de funcionários </h1>
+			</div>
+		</header>
+		<main>
+			<section class="container">
+				<h2>FUNCIONARIOS</h2>
+				<table>
+					<thead>
+						<tr>
     <body>
     <form name = "func" method = "post" >
         <label>ID</label>
