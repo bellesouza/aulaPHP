@@ -73,7 +73,7 @@ if(!empty($selecionado)){
 <html lang="pt-br">
     <head>
         <title>
-            ALLALALALALLA
+           Cadastro de funcionários
         </title>
         
       
